@@ -1,3 +1,4 @@
 # edem redemy 
 yo man
-gg
+-gg
+-10
