@@ -1,4 +1,4 @@
 # edem redemy 
-yo man
--gg
--10
+-yo man
+->gg
+_10
